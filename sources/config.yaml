@@ -1,7 +1,6 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - EpundaSans.glyphs
 axisOrder:
   - wght
   - ital
-familyName: Rubik
+familyName: Epunda Sans
