@@ -15,6 +15,7 @@ name = Weight;
 tag = wght;
 },
 {
+hidden = 1;
 name = Italic;
 tag = ital;
 }
@@ -30,7 +31,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2022-10-09 17:07:24 +0000";
+date = "2023-01-16 16:53:36 +0000";
 familyName = "Epunda Sans";
 featurePrefixes = (
 {
@@ -495,6 +496,8 @@ pos = -200;
 },
 {
 over = -16;
+},
+{
 }
 );
 name = Light;
@@ -542,6 +545,8 @@ pos = -200;
 },
 {
 over = -16;
+},
+{
 }
 );
 name = Black;
@@ -589,6 +594,8 @@ pos = -200;
 {
 over = -16;
 pos = 12;
+},
+{
 }
 );
 name = "Light Italic";
@@ -635,6 +642,8 @@ pos = -200;
 {
 over = -16;
 pos = 12;
+},
+{
 }
 );
 name = "Black Italic";
@@ -86916,6 +86925,8 @@ type = descender;
 },
 {
 type = "italic angle";
+},
+{
 }
 );
 properties = (
