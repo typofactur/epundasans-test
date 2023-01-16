@@ -423,6 +423,7 @@ sub e by e.salt;
 sub g by g.salt;
 sub k by k.salt;
 ";
+disabled = 1;
 tag = salt;
 }
 );
